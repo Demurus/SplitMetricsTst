@@ -1,0 +1,30 @@
+{
+  "Codes": [
+    {
+      "Error": "0",
+      "Response": "No word entered",
+    },
+    {
+      "Error": "1",
+      "Response": "Wrong word entered",
+    },
+    {
+      "name": "Hard",
+      "grid_size": 12,
+      "words": [
+        "ABSTRACT",
+        "AEROBICS",
+        "COBWEBBY",
+        "DIAMONDS",
+        "ELECTRIC",
+        "ELEPHANT",
+        "FURLOUGH",
+        "GALOSHES",
+        "INTEGRAL",
+        "MYSTIQUE",
+        "QUIZZING",
+        "TUMBLEWEED"
+      ]
+    }
+  ]
+}

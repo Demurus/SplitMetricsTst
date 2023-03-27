@@ -1,0 +1,13 @@
+{
+  "Codes": 
+  [
+    {
+      "Error": "0",
+      "Response": "No word entered",
+    },
+    {
+      "Error": "1",
+      "Response": "Wrong word entered",
+    }
+  ]
+}

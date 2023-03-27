@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd02cf64-69c1-44f5-b751-81f7543c0059" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Code/DataManagement/IDataManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/DataManagement/IManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/UIManagement/UIView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/UIManagement/UIViewType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Zenject/Source/Main/DiContainer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BB425196-9FB4-4E5D-80D8-C754D05E61F7/96/42edefe9/Grid.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Config/ErrorCode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/DataManagement/DataManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BC3985D3-7B02-41B4-8FC2-1474B2DE25BD/f3/a0447e5a/JsonConvert.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Config/GameConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Base/GameController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Base/PlayGrid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/DataManagement/ConfigsPath.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CFC1AD89-0650-411E-946C-FF2E6F276711/cb/3df0bc93/PlayerPrefs.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/91/e175b7f0/BinaryFormatter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0B59F3B6-14A0-4547-A8BF-657DE1E23F2C/29/b6dc1240/JsonUtility.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Base/GameContainer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/UIManagement/UIManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/UIManagement/IUIManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Zenject/Source/Install/MonoInstallerBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Config/ErrorCodes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/db/71e88afb/DateTime.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Base/JsonLoader.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Code/LivesManagement/IlivesManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/SaveData/SaveConstants.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/SaveData/SaveKeys.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/DataManagement/IManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/SaveData/GameSaveData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/LivesManagement/LivesTimer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/DailyBonus/IDailyBonusManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/UIManagement/UIViewType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/UI/DailyBonusView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/LivesManagement/LivesData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/LivesManagement/ILivesManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/LivesManagement/LivesManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/DailyBonus/DailyBonusManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/UI/LivesBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/UI/LivesView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/UIManagement/IUIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/UIManagement/UIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/UIManagement/UIView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Base/FilesSaver.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Base/PlayGrid.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Base/ErrorCodes.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Base/ErrorCode.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/DataManagement/ConfigsPath.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/SO/GameConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Base/MainController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Base/GameContainer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Base/GameConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Config/ErrorCode.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Config/ErrorCodes.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/DataManagement/DataManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/DataManagement/IDataManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Config/GameConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Base/JsonLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Base/GameController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LujvyS0JmD0qko4gK0DenpDWbU" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd02cf64-69c1-44f5-b751-81f7543c0059" name="Default Changelist" comment="" />
+      <created>1676728095985</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676728095985</updated>
+      <workItem from="1676728097418" duration="11099000" />
+      <workItem from="1676795509157" duration="544000" />
+      <workItem from="1676796152654" duration="6323000" />
+      <workItem from="1679739790805" duration="1353000" />
+      <workItem from="1679752739466" duration="4757000" />
+      <workItem from="1679817676617" duration="499000" />
+      <workItem from="1679844532404" duration="993000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="1114" y="400" key="RiderGenerateDialog" timestamp="1676798192605">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1114" y="400" key="RiderGenerateDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1676798192605" />
+  </component>
+</project>
